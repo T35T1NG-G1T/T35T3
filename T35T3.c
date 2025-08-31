@@ -2,7 +2,9 @@
 
 int main()
 {
-  printf("Teste 1");
+  printf("Um teste");
+  printf("\n");
 
-  printf("Teste 2");
+  printf("Outro teste");
+  printf("\n");
 }
